@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" height="100%">
+  <rect width="800" height="480" fill="#10162B" rx="16"/>
+  <rect x="70" y="50" width="660" height="380" rx="14" fill="#18203E" stroke="#2B3663" stroke-width="2"/>
+  <rect x="70" y="50" width="660" height="46" rx="14" fill="#12182F"/>
+  <circle cx="102" cy="73" r="6" fill="#FF5F56"/>
+  <circle cx="122" cy="73" r="6" fill="#FFBD2E"/>
+  <circle cx="142" cy="73" r="6" fill="#27C93F"/>
+  <text x="165" y="77" fill="#EAEDFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="600">Web POS Mitra — Yenny Laundry &amp; Teh Solo</text>
+  
+  <rect x="100" y="120" width="300" height="130" rx="10" fill="#1E274A"/>
+  <text x="120" y="150" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700">Modul Laundry (Yenny)</text>
+  <text x="120" y="175" fill="#8E9CBF" font-family="'Plus Jakarta Sans', sans-serif" font-size="11">Status: Cuci ➔ Kering ➔ Setrika ➔ Selesai</text>
+  <rect x="120" y="195" width="220" height="32" rx="6" fill="#5267FF"/>
+  <text x="230" y="216" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="600" text-anchor="middle">Input Nota Timbangan Kg</text>
+
+  <rect x="420" y="120" width="280" height="130" rx="10" fill="#1E274A"/>
+  <text x="440" y="150" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700">Modul UMKM Teh Solo</text>
+  <text x="440" y="175" fill="#8E9CBF" font-family="'Plus Jakarta Sans', sans-serif" font-size="11">Kasir Cepat &amp; Pengurangan Stok Cup</text>
+  <rect x="440" y="195" width="200" height="32" rx="6" fill="#C9FF57"/>
+  <text x="540" y="216" fill="#10162B" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" text-anchor="middle">Cetak Struk Transaksi</text>
+
+  <rect x="100" y="270" width="600" height="130" rx="10" fill="#161E3A" stroke="#253059" stroke-width="1"/>
+  <text x="120" y="300" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700">Laporan Ringkasan Omzet Harian</text>
+  <text x="120" y="325" fill="#EAEDFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="11">Memangkas selisih hitung nota kertas dan mempercepat durasi antrean kasir.</text>
+  <rect x="120" y="345" width="160" height="34" rx="6" fill="#5267FF" opacity="0.3"/>
+  <text x="200" y="367" fill="#C9FF57" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" text-anchor="middle">Sinkronisasi Realtime</text>
+</svg>

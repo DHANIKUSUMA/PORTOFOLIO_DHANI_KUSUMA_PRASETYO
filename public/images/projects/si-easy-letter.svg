@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" height="100%">
+  <rect width="800" height="480" fill="#10162B" rx="16"/>
+  <rect x="70" y="50" width="660" height="380" rx="14" fill="#18203E" stroke="#2B3663" stroke-width="2"/>
+  <rect x="70" y="50" width="660" height="46" rx="14" fill="#12182F"/>
+  <circle cx="102" cy="73" r="6" fill="#FF5F56"/>
+  <circle cx="122" cy="73" r="6" fill="#FFBD2E"/>
+  <circle cx="142" cy="73" r="6" fill="#27C93F"/>
+  <text x="165" y="77" fill="#EAEDFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="600">SI-Easy Letter — Sistem Surat Administrasi Kampus</text>
+  
+  <rect x="100" y="120" width="310" height="280" rx="10" fill="#1B2344" stroke="#2A3766" stroke-width="1"/>
+  <text x="125" y="150" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700">Form Pengajuan Surat Mahasiswa</text>
+  
+  <rect x="125" y="170" width="260" height="34" rx="6" fill="#212C54"/>
+  <text x="140" y="192" fill="#EAEDFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="11">Jenis: Surat Keterangan Aktif Kuliah</text>
+
+  <rect x="125" y="215" width="260" height="34" rx="6" fill="#212C54"/>
+  <text x="140" y="237" fill="#8E9CBF" font-family="'Plus Jakarta Sans', sans-serif" font-size="11">Keperluan: Beasiswa &amp; Tunjangan Ortu</text>
+
+  <rect x="125" y="260" width="260" height="46" rx="6" fill="#141B34"/>
+  <text x="140" y="280" fill="#C9FF57" font-family="'Plus Jakarta Sans', sans-serif" font-size="10">Status: Disetujui Tata Usaha &amp; Kaprodi</text>
+  <text x="140" y="295" fill="#8E9CBF" font-family="'Plus Jakarta Sans', sans-serif" font-size="10">Nomor: 142/UN46.1.7/KM/2023</text>
+
+  <rect x="125" y="325" width="260" height="42" rx="8" fill="#5267FF"/>
+  <text x="255" y="351" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="600" text-anchor="middle">Unduh Surat Resmi PDF</text>
+
+  <!-- Right: Official Letter Preview -->
+  <rect x="430" y="120" width="270" height="280" rx="10" fill="#FFFFFF"/>
+  <rect x="450" y="140" width="230" height="12" rx="3" fill="#10162B"/>
+  <rect x="450" y="160" width="180" height="6" rx="2" fill="#8E9CBF"/>
+  <line x1="450" y1="175" x2="680" y2="175" stroke="#10162B" stroke-width="2"/>
+
+  <rect x="450" y="195" width="230" height="8" rx="2" fill="#D7DCFF"/>
+  <rect x="450" y="210" width="210" height="8" rx="2" fill="#D7DCFF"/>
+  <rect x="450" y="225" width="220" height="8" rx="2" fill="#D7DCFF"/>
+
+  <rect x="580" y="270" width="80" height="80" rx="8" fill="#F3F5FA" stroke="#5267FF" stroke-width="1"/>
+  <text x="620" y="315" fill="#5267FF" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="700" text-anchor="middle">VALIDATED</text>
+</svg>
